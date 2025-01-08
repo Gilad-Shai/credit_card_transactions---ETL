@@ -55,9 +55,3 @@ def main():
 
 if __name__ == '__main__':
     main()
-
-
-# # python main.py json
-# # python main.py excel
-# # python main.py csv
-# # python main.py db
